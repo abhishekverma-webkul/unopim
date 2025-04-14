@@ -1650,11 +1650,11 @@ return [
             ],
 
             'toolbar' => [
-                'length-of' => '：length 的',
-                '的'         => '的',
-                'per-page'  => '每页',
-                'results'   => '：total 结果',
-                'selected'  => '：total 选定',
+                'length-of'  => '：length 的',
+                '的'          => '的',
+                'per-page'   => '每页',
+                'results'    => '：total 结果',
+                'selected'   => '：total 选定',
 
                 'mass-actions' => [
                     'submit'        => '提交',
