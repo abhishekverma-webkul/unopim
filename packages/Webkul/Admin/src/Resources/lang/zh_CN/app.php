@@ -1651,7 +1651,7 @@ return [
 
             'toolbar' => [
                 'length-of'  => '：length 的',
-                '的'          => '的',
+                'of'         => '的',
                 'per-page'   => '每页',
                 'results'    => '：total 结果',
                 'selected'   => '：total 选定',
